@@ -1,8 +1,8 @@
 **pinterest-organic-traffic/references/common-mistakes.md**
 
-#Common Mistakes: The Patterns That Quietly Undermine Pinterest Accounts
+# Common Mistakes: The Patterns That Quietly Undermine Pinterest Accounts
 
-##Why This File Exists
+## Why This File Exists
 
 Most of the previous files have laid out what to do. This file is different. It catalogs what _not_ to do - the patterns that appear over and over in Pinterest accounts that aren't working, even when most of the other strategy is sound. These mistakes share a few characteristics that make them particularly dangerous.
 
