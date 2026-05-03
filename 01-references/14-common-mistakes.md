@@ -16,7 +16,7 @@ This file is a defensive scan - a way for the user to audit their own approach a
 
 The format that follows is deliberately list-like in spirit even though it's written in prose. Each mistake gets a clear name, a description of what the pattern looks like, why it's harmful, and how to fix it. Some of the mistakes have been touched on in earlier files but are gathered here for easy reference. Some are new and weren't covered elsewhere. Together, they form a comprehensive map of what to watch for.
 
-##(A) Production And Cadence Mistakes**
+## (A) Production And Cadence Mistakes
 
 This first cluster of mistakes is about how the user produces and publishes pins - the rhythm, the volume, the structure of the work itself. These mistakes affect the long-term sustainability of the channel.
 
@@ -38,7 +38,7 @@ This first cluster of mistakes is about how the user produces and publishes pins
 
 **9 The Forced-Multiplication Pattern.** The user tries to produce ten variants of every piece of content even when the content doesn't legitimately have ten angles. The forced variants feel weak, the headlines repeat, and the pin set ends up worse than five strong pins would have been. Fix: let the content dictate the multiplication. Some pieces support ten angles, others support five, rare pieces support three.
 
-##(B) Pin Design Mistakes
+## (B) Pin Design Mistakes
 
 This second cluster is about the pins themselves - how they look, what they communicate, and where they fail. These mistakes affect every individual pin's chance of earning attention in the feed.
 
@@ -64,7 +64,7 @@ This second cluster is about the pins themselves - how they look, what they comm
 
 **20 The Low-Resolution Pin.** A pin uploaded at 500x750 instead of 1000x1500 or higher. The pin looks blurry on retina displays and gets reduced distribution. Fix: design at 2000x3000 if possible, export at high quality, never upload below 1000x1500.
 
-##(C) Copywriting And SEO Mistakes
+## (C) Copywriting And SEO Mistakes
 
 This third cluster is about the words on and around pins - titles, descriptions, board names. These mistakes affect search visibility and algorithmic understanding of the pin's topic.
 
