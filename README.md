@@ -5,8 +5,11 @@ This is how the skill folder is set up.
 FOLDER STRUCTURE:
 
 pinterest-organic-traffic/
+
 +-- SKILL.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(master instructions, when to trigger, workflow)
+
 +-- references/
+
 ¦   +-- philosophy.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Pinterest as search engine, not social; long-tail traffic mindset; the patience principle)
 ¦   +-- profile-setup.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(business account, verification, Rich Pins, keyword-optimized name/bio)
 ¦   +-- keyword-research.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(using Pinterest search bar, autocomplete, related searches, Trends tool)
