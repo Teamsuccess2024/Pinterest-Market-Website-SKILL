@@ -53,7 +53,7 @@ pinterest-organic-traffic/
 +-- examples/
 
 ¦   +-- christian-library-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Team Success Network walkthrough)
-¦
+
 ¦   +-- ecommerce-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(product-based site)
-¦
+
 ¦   +-- blog-monetization-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(content site with ads/affiliates)
