@@ -10,48 +10,49 @@ pinterest-organic-traffic/
 
 +-- references/
 
-Â¦   +-- philosophy.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Pinterest as search engine, not social; long-tail traffic mindset; the patience principle)
+¦   +-- philosophy.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Pinterest as search engine, not social; long-tail traffic mindset; the patience principle)
 
-Â¦   +-- profile-setup.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(business account, verification, Rich Pins, keyword-optimized name/bio)
+¦   +-- profile-setup.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(business account, verification, Rich Pins, keyword-optimized name/bio)
 
-Â¦   +-- keyword-research.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(using Pinterest search bar, autocomplete, related searches, Trends tool)
+¦   +-- keyword-research.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(using Pinterest search bar, autocomplete, related searches, Trends tool)
 
-Â¦   +-- board-strategy.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(how to structure boards, naming, descriptions, count, niche vs broad)
+¦   +-- board-strategy.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(how to structure boards, naming, descriptions, count, niche vs broad)
 
-Â¦   +-- pin-design.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(dimensions, text overlay rules, color/contrast, mobile-first, template thinking)
+¦   +-- pin-design.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(dimensions, text overlay rules, color/contrast, mobile-first, template thinking)
 
-Â¦   +-- pin-copywriting.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(titles, 500-char descriptions, hashtag use, CTA placement)
+¦   +-- pin-copywriting.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(titles, 500-char descriptions, hashtag use, CTA placement)
 
-Â¦   +-- pin-types.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(standard, idea pins, video pins, product pins, rich pinsâ€”when to use each)
+¦   +-- pin-types.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(standard, idea pins, video pins, product pins, rich pins—when to use each)
 
-Â¦   +-- content-multiplication.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3-5 pin variants per URL, refresh strategy, evergreen angles)
+¦   +-- content-multiplication.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3-5 pin variants per URL, refresh strategy, evergreen angles)
 
-Â¦   +-- posting-cadence.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(daily volume, scheduling, Tailwind vs native, time-of-day myths)
+¦   +-- posting-cadence.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(daily volume, scheduling, Tailwind vs native, time-of-day myths)
 
-Â¦   +-- seo-on-pinterest.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(title/description/board/profile keyword stacking, alt text, file naming)
+¦   +-- seo-on-pinterest.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(title/description/board/profile keyword stacking, alt text, file naming)
 
-Â¦   +-- analytics-and-iteration.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(which metrics matter, outbound clicks vs saves, what to scale)
+¦   +-- analytics-and-iteration.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(which metrics matter, outbound clicks vs saves, what to scale)
 
-Â¦   +-- algorithm-signals.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(fresh pins, save velocity, click-through, what Pinterest rewards)
+¦   +-- algorithm-signals.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(fresh pins, save velocity, click-through, what Pinterest rewards)
 
-Â¦   +-- traffic-conversion.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(landing page match, pin-to-page congruence, capturing the visitor)
+¦   +-- traffic-conversion.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(landing page match, pin-to-page congruence, capturing the visitor)
 
-Â¦   +-- common-mistakes.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(over-pinning, spammy descriptions, broken links, board bloat)
+¦   +-- common-mistakes.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(over-pinning, spammy descriptions, broken links, board bloat)
 
 +-- templates/
 
-Â¦   +-- intake-questionnaire.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(questions to ask before building: niche, audience, content inventory, goals)
+¦   +-- intake-questionnaire.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(questions to ask before building: niche, audience, content inventory, goals)
 
-Â¦   +-- profile-buildout-template.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(fill-in-the-blank profile + first 10 boards)
+¦   +-- profile-buildout-template.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(fill-in-the-blank profile + first 10 boards)
 
-Â¦   +-- pin-batch-template.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(generate 20+ pins from one piece of content)
+¦   +-- pin-batch-template.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(generate 20+ pins from one piece of content)
 
-Â¦   +-- board-description-template.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(keyword-rich board description formula)
+¦   +-- board-description-template.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(keyword-rich board description formula)
 
-Â¦   +-- 90-day-launch-plan.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(week-by-week rollout from zero)
+¦   +-- 90-day-launch-plan.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(week-by-week rollout from zero)
 
 +-- examples/
 
-Â¦   +-- christian-library-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Team Success Network walkthrough)
-Â¦   +-- ecommerce-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(product-based site)
-Â¦   +-- blog-monetization-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(content site with ads/affiliates)
+¦   +-- christian-library-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Team Success Network walkthrough)
+
+¦   +-- ecommerce-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(product-based site)
+¦   +-- blog-monetization-example.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(content site with ads/affiliates)
