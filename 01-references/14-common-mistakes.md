@@ -166,31 +166,31 @@ This sixth cluster is about what happens after the click - the website-side fail
 
 **63 The Visual Discontinuity.** Pins designed in dark-and-gold linking to a website in bright pastel. The user feels disoriented. Fix: align pin templates with the website's visual identity so the experience feels continuous from pin to page.
 
-**64 Strategic And Mindset Mistakes**
+## (G) 64 Strategic And Mindset Mistakes
 
 This final cluster is about how the user thinks about Pinterest at a strategic level. These mistakes are upstream of the tactical mistakes and tend to cause many of them.
 
-**65 The Three-Month-Quit Pattern.** The user invests in Pinterest for three months, sees little traffic, and concludes Pinterest doesn't work. They quit just before the curve bends. Fix: commit to twelve months minimum before judging the channel. Pinterest's ramp is real and non-negotiable.
+**64 The Three-Month-Quit Pattern.** The user invests in Pinterest for three months, sees little traffic, and concludes Pinterest doesn't work. They quit just before the curve bends. Fix: commit to twelve months minimum before judging the channel. Pinterest's ramp is real and non-negotiable.
 
-**66 The Instagram-Brain Application.** The user approaches Pinterest the way they'd approach Instagram - pretty pictures, soft captions, lifestyle aesthetic, peak posting times, follower growth. Almost none of this works on Pinterest. Fix: internalize that Pinterest is a search engine, not a social network. Build for searchers, not for friends.
+**65 The Instagram-Brain Application.** The user approaches Pinterest the way they'd approach Instagram - pretty pictures, soft captions, lifestyle aesthetic, peak posting times, follower growth. Almost none of this works on Pinterest. Fix: internalize that Pinterest is a search engine, not a social network. Build for searchers, not for friends.
 
-**67 The Aesthetic-Over-Function Trade.** The user prioritizes how pins look in isolation over how they perform in a feed. The pins are beautiful and underperforming. Fix: function over aesthetic. Bold contrast, clear text, specific promises. Aesthetic is a tool, not a goal.
+**66 The Aesthetic-Over-Function Trade.** The user prioritizes how pins look in isolation over how they perform in a feed. The pins are beautiful and underperforming. Fix: function over aesthetic. Bold contrast, clear text, specific promises. Aesthetic is a tool, not a goal.
 
-**68 The Shortcut Hunt.** The user is constantly looking for hacks - algorithm tricks, growth tactics, secret methods. Pinterest's algorithm has gotten too sophisticated for shortcuts to work. Fix: do the fundamentals well, consistently, for years. The compounding is the strategy.
+**67 The Shortcut Hunt.** The user is constantly looking for hacks - algorithm tricks, growth tactics, secret methods. Pinterest's algorithm has gotten too sophisticated for shortcuts to work. Fix: do the fundamentals well, consistently, for years. The compounding is the strategy.
 
-**69 The Comparison Trap.** The user compares their three-month-old account to established accounts with five years of inventory and despairs. The comparison is invalid. Fix: compare to your own account three months ago, not to mature accounts in your niche.
+**68 The Comparison Trap.** The user compares their three-month-old account to established accounts with five years of inventory and despairs. The comparison is invalid. Fix: compare to your own account three months ago, not to mature accounts in your niche.
 
-**70 The Perfect-Pin Paralysis.** The user spends thirty minutes per pin trying to perfect each one. Production stalls. The account doesn't reach the volume needed to compound. Fix: rely on templates. Quality at speed comes from systems, not from agonizing over individual pins.
+**69 The Perfect-Pin Paralysis.** The user spends thirty minutes per pin trying to perfect each one. Production stalls. The account doesn't reach the volume needed to compound. Fix: rely on templates. Quality at speed comes from systems, not from agonizing over individual pins.
 
-**71 The Strategy-Without-Production Pattern.** The user reads about Pinterest, plans Pinterest, talks about Pinterest, but doesn't actually pin. The strategy is irrelevant without execution. Fix: pin daily. Even five pins a day for a year produces results that ten months of strategy planning never will.
+**70 The Strategy-Without-Production Pattern.** The user reads about Pinterest, plans Pinterest, talks about Pinterest, but doesn't actually pin. The strategy is irrelevant without execution. Fix: pin daily. Even five pins a day for a year produces results that ten months of strategy planning never will.
 
-**72 The Production-Without-Strategy Pattern.** The user pins daily but without keyword research, board structure, or measurement. The volume is high but the signal is weak. Fix: do the foundational work first - keyword document, profile setup, board architecture - then start pinning at volume. The structure is what makes the volume worth it.
+**71 The Production-Without-Strategy Pattern.** The user pins daily but without keyword research, board structure, or measurement. The volume is high but the signal is weak. Fix: do the foundational work first - keyword document, profile setup, board architecture - then start pinning at volume. The structure is what makes the volume worth it.
 
-**73 The Single-Channel-Bet Pattern.** The user puts all their traffic strategy on Pinterest and abandons everything else. When Pinterest has a slow month, the entire business has a slow month. Fix: Pinterest is one channel among several. Email, SEO, partnerships, and other channels diversify the risk.
+**72 The Single-Channel-Bet Pattern.** The user puts all their traffic strategy on Pinterest and abandons everything else. When Pinterest has a slow month, the entire business has a slow month. Fix: Pinterest is one channel among several. Email, SEO, partnerships, and other channels diversify the risk.
 
-**74 The Set-It-And-Forget-It Assumption.** The user expects that once Pinterest is set up, it will run itself. The lack of ongoing attention causes the account to slowly fade as templates get stale, keywords drift, and refresh waves don't happen. Fix: light ongoing maintenance - weekly review, monthly strategic check-ins, quarterly audits, refresh waves. Pinterest is low-touch but not no-touch.
+**73 The Set-It-And-Forget-It Assumption.** The user expects that once Pinterest is set up, it will run itself. The lack of ongoing attention causes the account to slowly fade as templates get stale, keywords drift, and refresh waves don't happen. Fix: light ongoing maintenance - weekly review, monthly strategic check-ins, quarterly audits, refresh waves. Pinterest is low-touch but not no-touch.
 
-**75 The Audience-Mismatch Pattern.** The user builds Pinterest for an audience that doesn't actually exist on Pinterest. Some niches (B2B enterprise software, hyper-local services) genuinely have weak Pinterest fit. Fix: validate Pinterest fit before investing heavily. The Christian content niche has excellent Pinterest fit; not every niche does.
+**74 The Audience-Mismatch Pattern.** The user builds Pinterest for an audience that doesn't actually exist on Pinterest. Some niches (B2B enterprise software, hyper-local services) genuinely have weak Pinterest fit. Fix: validate Pinterest fit before investing heavily. The Christian content niche has excellent Pinterest fit; not every niche does.
 
 ## How To Use This File
 
